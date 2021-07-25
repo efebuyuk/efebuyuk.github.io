@@ -1,8 +1,18 @@
-## Welcome to GitHub Pages
+# Welcome to Efe Buyuk's website
 
-You can use the [editor on GitHub](https://github.com/efebuyuk/efebuyuk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here you can find information about me and my articles. Enjoy!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About me
+
+Demonstrated success in conducting research, mining data, enhancing data collection procedures, building algorithms and using machine learning tool. Possess outstanding leadership abilities to direct all phases of project-based efforts, while motivating and leading project teams. Excellent communicator, skilled in building and strengthening relationships across functions to drive cohesive, strategic operations.
+
+## Follow me on
+- [LinkedIn](https://www.linkedin.com/in/efebuyuk/)
+- [Medium](https://efebuyuk.medium.com/)
+- [Twitter](https://twitter.com/efebuyuk23)
+- [GitHub](https://github.com/efebuyuk)
+- [Kaggle](https://www.kaggle.com/efebuyuk)
+
 
 ### Markdown
 
