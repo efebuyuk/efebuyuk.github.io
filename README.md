@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Welcome to Efe Buyuk's website
 
-You can use the [editor on GitHub](https://github.com/efebuyuk/efebuyuk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here you can find information about me and my articles. Enjoy!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About me
 
-### Markdown
+Demonstrated success in conducting research, mining data, enhancing data collection procedures, building algorithms and using machine learning tool. Possess outstanding leadership abilities to direct all phases of project-based efforts, while motivating and leading project teams. Excellent communicator, skilled in building and strengthening relationships across functions to drive cohesive, strategic operations.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Follow me on
+- [LinkedIn](https://www.linkedin.com/in/efebuyuk/)
+- [Medium](https://efebuyuk.medium.com/)
+- [Twitter](https://twitter.com/efebuyuk23)
+- [GitHub](https://github.com/efebuyuk)
+- [Kaggle](https://www.kaggle.com/efebuyuk)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## My Medium Articles
+### 2021
+- 21. How to Analyse Video Related Data with R
+- 20. Being a Data Scientist in the News and Media Industry
+- 19. The Increasing Importance of Machine Learning in Distance Learning
+### 2020
+- 18. The Rise of Machine Learning
+- 17. End of Discussion! Not Messi, Not Ronaldo! The Most…
+- 16. Can I Form A Dream Team in FIFA 19 using SQL?
+- 15. I Need A Striker for My Team! Who Is He Going to Be? Examining the Dataset in Tableau
+- 14. Data Analysis Series: An Overview of FIFA 19 Players Dataset
+- 13. Conflict Analysis for Turkish Debates Using Text Mining and Text Segmentation Techniques
+- 12. Step by Step: How to Write A VBA Code to Check Valid Cell Values in Excel?
+- 11. Step by Step: How to Write A VBA Code to Copy Data from One Sheet to Another in Excel?
+- 10. What Is VBA? How Do We Use It in Data Validation?
+- 9. Step by Step: How to Create an XSD File to Validate Data in XML?
+- 8. What Is an XSD File? How Do We Use It in Data Validation?
+- 7. Step by Step: How to Export an XML File from Excel?
+- 6. Step by Step: How to Import an XML File to Excel?
+- 5. What Is an XML File? How Do We Use It in Data Validation?
+- 4. Step by Step: How to Prepare A Test Data Set in Excel?
+- 3. What Is Excel? How Do We Use It in Data Validation?
+- 2. Data Validation Series: Excel-XML-XSD-VBA The Holy Rectangle
+- 1. What is data analytics?
 
-- Bulleted
-- List
+## Other Articles to be added
+- 1. Can A Robot Become Your Mother?
 
-1. Numbered
-2. List
+## What I Read
+- 1. 2021 – Books and Ebooks I Read
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/efebuyuk/efebuyuk.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
