@@ -16,9 +16,9 @@ Demonstrated success in conducting research, mining data, enhancing data collect
 
 ## My Medium Articles
 ### 2021
-- 21. How to Analyse Video Related Data with R
-- 20. Being a Data Scientist in the News and Media Industry
-- 19. The Increasing Importance of Machine Learning in Distance Learning
+1. How to Analyse Video Related Data with R
+2. Being a Data Scientist in the News and Media Industry
+3. The Increasing Importance of Machine Learning in Distance Learning
 ### 2020
 - 18. The Rise of Machine Learning
 - 17. End of Discussion! Not Messi, Not Ronaldo! The Most…
