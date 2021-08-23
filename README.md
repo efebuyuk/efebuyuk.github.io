@@ -43,7 +43,8 @@ Demonstrated success in conducting research, mining data, enhancing data collect
 ## Other Articles to be added
 1. Can A Robot Become Your Mother?
 
-## What I Read
-1. 2021 – Books and Ebooks I Read
+## What I Read (Books and Ebooks)
+*2021*
+1. 
 
 
