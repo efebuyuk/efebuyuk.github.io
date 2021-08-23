@@ -15,12 +15,12 @@ Demonstrated success in conducting research, mining data, enhancing data collect
 
 
 ## My Medium Articles
-### 2021
+*2021*
 1. How to Analyse Video Related Data with R
 2. Being a Data Scientist in the News and Media Industry
 3. The Increasing Importance of Machine Learning in Distance Learning
 
-### 2020
+*2020*
 1. The Rise of Machine Learning
 2. End of Discussion! Not Messi, Not Ronaldo! The Most…
 3. Can I Form A Dream Team in FIFA 19 using SQL?
