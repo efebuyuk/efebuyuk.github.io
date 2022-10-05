@@ -18,8 +18,8 @@ defaults:
 
 projects:
   #sort_by: stars, pushed
-  sort_by:
-    - stars
+  sort_by: stars
+  #  - stars
   #  - pushed
   limit: 9
   exclude:
