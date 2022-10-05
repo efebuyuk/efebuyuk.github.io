@@ -17,10 +17,10 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: star, pushed
-  # sort_by options:
-  #   - pushed
-  #   - stars
+  #sort_by: stars, pushed
+  sort_by options:
+    - stars
+    - pushed
   limit: 9
   exclude:
     archived: false
@@ -34,6 +34,7 @@ projects:
     - Students-Performance-in-Exams
     - create-your-own-adventure
     - personal-website
+    - DeepSpeech
 
 social_media:
   # behance: your_username
