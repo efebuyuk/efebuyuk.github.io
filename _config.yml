@@ -20,7 +20,7 @@ projects:
   #sort_by: stars, pushed
   sort_by:
     - stars
-    - pushed
+  #  - pushed
   limit: 9
   exclude:
     archived: false
